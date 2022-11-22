@@ -26,8 +26,8 @@ Gebruikers gaan zelf aan de slag met het samenstellen van hun fruitmand. Ze hebb
 Zoals je ziet is de styling niet belangrijk, focus je in eerste instantie op de functionaliteit. Heb je tijd over? Kijk dan vooral bij de bonusopdrachten!
 
 ### Randvoorwaarden fruit-counters
-* Je maakt gebruik van de useState hook van React om de hoeveelheden bij te houden
-* Klanten hebben de vrijheid om te kiezen tussen vier typen fruit:
+* Je maakt gebruitk van de useState hook van React om de hoeveelheden bij te houden
+* Klanten hebben de vrijheid om te kiezen ussen vier typen fruit:
   1. Bananen 🍌
   2. Aarbeien 🍓
   3. Appels 🍏
