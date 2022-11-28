@@ -1,0 +1,66 @@
+* {
+    background-image: url("assets/fruitbasket.jpg");
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.fruitContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 450px;
+    width: 250px;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.fruitButton {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+article  {
+    border: 1px solid black;
+    margin-bottom: 36px;
+}
+
+.formClass {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 450px;
+    width: 250px;
+    border: 1px solid black;
+    padding: 5px 5px;
+}
+
+.aardb, .banana, .appelski, .kiwiski {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.buttonski {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 8px;
+}
+.increaseClass:hover, .decreaseClass:hover {
+    border: 2px solid red;
+}
+
+.decreaseClass, .increaseClass {
+    height: 20px;
+    width: 20px;
+    margin: 5px 5px;
+}
